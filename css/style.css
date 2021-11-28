@@ -173,8 +173,8 @@ body {
   margin-bottom: 16px;
 }
 
-.swiper-slide > img {
-  border-radius: 10px;
+.swiper-slide >a>img {
+  border-radius: 0px;
   min-width: 500px;
 }
 
